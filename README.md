@@ -1,6 +1,6 @@
-# 🏥 MediInsight AI
+# 🏥 AI-Powered-Medical-Report-Analyzer
 
-MediInsight AI is an AI-powered Medical Report Analysis System built using Streamlit, Groq LLM, OCR, and RAG (Retrieval-Augmented Generation).
+An AI-powered Medical Report Analysis System built using Streamlit, Groq LLM, OCR, and RAG (Retrieval-Augmented Generation).
 
 The application helps users understand medical reports in a simple way by providing report summaries, abnormal findings, lifestyle suggestions, report comparison, multilingual translation, and an AI-powered healthcare chatbot.
 
@@ -95,7 +95,7 @@ The application helps users understand medical reports in a simple way by provid
 
 # 📂 Project Structure
 
-MediInsight_AI/
+AI-Powered-Medical-Report-Analyzer/
 
 ├── app.py
 
@@ -142,11 +142,12 @@ MediInsight_AI/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/Madhuriverma275/MediInsight-AI.git
+git clone https://github.com/Madhuriverma275/AI-Powered-Medical-Report-Analyzer.git
 ```
 
 ```bash
-cd MediInsight-AI
+cd AI-Powered-Medical-Report-Analyzer
+
 ```
 
 ---
